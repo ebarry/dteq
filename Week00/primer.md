@@ -28,3 +28,8 @@ Key Concepts
 * Share drives
 * Regular backup/archive work
 
+DTEQ INTRO READING: "Less in Common"
+Download the following file and read prior to the first day of DTEQ class, June 7th, 2016.
+[insert url]
+
+
